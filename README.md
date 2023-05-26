@@ -5,12 +5,12 @@ Project MNIST data
 ### SVD method
 
 <p align="center">
-  <img src="svd.gif" width="400" height="400">
+  <img src="svd.gif" width="500" height="500">
 </p>
 
 
 ### TSNE method
 
 <p align="center">
-  <img src="tsne.gif" width="400" height="400">
+  <img src="tsne.gif" width="500" height="500">
 </p>
